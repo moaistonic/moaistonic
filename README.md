@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [bep]: https://github.com/bep
 [bugs]: https://github.com/gohugoio/hugo/issues?q=is%3Aopen+is%3Aissue+label%3ABug
 [contributing]: CONTRIBUTING.md
@@ -287,3 +288,7 @@ rsc.io/qr="v0.2.0"
 software.sslmate.com/src/go-pkcs12="v0.2.0"
 ```
 </details>
+=======
+# moaistonic
+moaistonic blog
+>>>>>>> 05be0403b410a4206b645e33494afc221c00df87
