@@ -1,0 +1,7 @@
+baseURL = "https://kimryanghoon.github.io/moaistonic/"
+languageCode = "ko-KR"
+title = "Moaistonic"
+theme = "hextra"
+
+[params]
+  description = "정보보안 블로그"
